@@ -7,3 +7,5 @@ Az első feladathoz tartozó kód használata a prgramban, amely ezen a repon é
 
 A program az adatbázist elkészíti, ha nem létezik.
 'extension=pdo_sqlite' szükséges a szerveren.
+
+Futtatáshoz: a letöltött dokumentumokat, a webszerver könyvtárába kell elhelyezni.
